@@ -15,6 +15,6 @@ int n;
 cin>>n;
 
 int output=factorial(n);
-couut<<output<<endl;
+cout<<output<<endl;
 return 0;
 }
