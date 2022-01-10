@@ -14,7 +14,7 @@ int main(){
 int n;
 cin>>n;
 
-factorial(n);
-
+int output=factorial(n);
+couut<<output<<endl;
 return 0;
 }
